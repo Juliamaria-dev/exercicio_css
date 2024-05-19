@@ -1,0 +1,58 @@
+*    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Cor de fundo geral */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+article {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#esportes {
+    background-color: #c7ecc7; /* Cor de fundo para notícias de esportes */
+}
+
+#economia {
+    background-color: #fff4c2; /* Cor de fundo para notícias de economia */
+}
+
+#games {
+    background-color: #8461e4; /* Cor de fundo para notícias de games*/
+}
+
+#tecnologia {
+    background-color: #19afeb; /* Cor de fundo para notícias tecnológicas */
+}
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #666;
+}
